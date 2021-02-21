@@ -6,6 +6,10 @@
 
 Welcome to my Github page! I am Krelod and I am currently studying server and backend development!
 
+<p align='center'>
+  <a ><img src="https://github-readme-stats.vercel.app/api?username=krelod&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
 #### 🌱 Things I am currently working on: 
 - Creation of a library that converts currencies quickly
 - Helping other developers on their projects
