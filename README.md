@@ -6,7 +6,7 @@
 
 Welcome to my Github page! I am Krelod and I am currently studying server and backend development!
 
-<p align='center'>
+<p align='left'>
   <a ><img src="https://github-readme-stats.vercel.app/api?username=krelod&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
