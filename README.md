@@ -7,7 +7,9 @@
 Welcome to my Github page! I am Krelod and I am currently studying server and backend development!
 
 <p align='left'>
-  <a ><img src="https://github-readme-stats.vercel.app/api?username=krelod&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=krelod&show_icons=true&count_private=true&theme=radical" width="350">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krelod&layout=compact&theme=radical" width="350" />
 </p>
 
 #### 🌱 Things I am currently working on: 
