@@ -12,16 +12,15 @@ Welcome to my Github page! I am Krelod and I am currently studying server and ba
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krelod&layout=compact&theme=radical" width="350" />
 </p>
 
-#### 🌱 Things I am currently working on: 
-- Creation of a library that converts currencies quickly
-- Helping other developers on their projects
-- Thinking of a world without COVID-19
+#### 📚 What am I studying: 
+- TypeScript
+- React with TypeScript
+- TDD
+- Rust
 
 #### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
+- Study Rust Every Day
+- Create a React project every week
 
 #### :computer: Programming languages and tools: 
 <p>
