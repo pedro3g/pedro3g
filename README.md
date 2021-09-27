@@ -12,16 +12,6 @@ Welcome to my Github page! I am Krelod and I am currently studying server and ba
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krelod&layout=compact&theme=radical" width="350" />
 </p>
 
-#### 📚 What am I studying: 
-- TypeScript
-- React with TypeScript
-- TDD
-- Rust
-
-#### :muscle: Things I am challenging myself with:
-- Study Rust Every Day
-- Create a React project every week
-
 #### :computer: Programming languages and tools: 
 <p>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
