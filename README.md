@@ -31,6 +31,6 @@ Welcome to my Github page! I am Krelod and I am currently studying server and ba
 </p>
  <p> 
 
- ## Total de Visitas no perfil :detective: <img alingn="center" src="https://profile-counter.glitch.me/pedro3g/count.svg" />
+ ## Total de Visitas no perfil :detective: <img alingn="center" src="https://profile-counter.glitch.me/krelod/count.svg" />
    
  </p>
