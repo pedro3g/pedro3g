@@ -1,5 +1,5 @@
 ### Hi there 👋
-### This is Krelod!
+### This is pedro3g!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/krelod)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pgomesrodrigues801@gmail.com)
