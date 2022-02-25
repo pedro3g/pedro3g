@@ -12,4 +12,4 @@ Welcome to my Github page! I am Pedro.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro3g&layout=compact&theme=radical" width="350" />
 </p>
 
- ## Total profile visits :detective: <img alingn="center" src="https://profile-counter.glitch.me/krelod/count.svg" />
+ ## Total profile visits :detective: <img alingn="center" src="https://profile-counter.glitch.me/pedro3g/count.svg" />
