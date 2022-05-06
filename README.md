@@ -5,8 +5,6 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/pedro3g)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pgomesrodrigues801@gmail.com)
 
-Welcome to my Github page! I am Pedro.
-
 <p align='left'>
   <img src="https://github-readme-stats.vercel.app/api?username=pedro3g&show_icons=true&count_private=true&theme=radical" width="350">
   <br>
