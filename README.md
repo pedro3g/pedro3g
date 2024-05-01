@@ -11,4 +11,8 @@ Beyond professional engagements, I am pursuing a Bachelor's degree in Software E
 
 I am passionate about learning new technologies, solving complex problems, and delivering high-quality products. My career aspirations are to continue growing as a developer and software architect, seeking opportunities that challenge, inspire, and allow me to contribute to the development and innovation of software solutions.
 
-Thank you for visiting my GitHub profile. I look forward to the possibility of collaborating on projects that push the boundaries of technology and make a meaningful impact.
+Thank you for visiting my GitHub profile. I look forward to the possibility of collaborating on projects that push the boundaries of technology and make 
+
+[![Twitter Badge](https://img.shields.io/badge/-@pedro3g-1e00e8?style=flat-cirecle&labelColor=1e00e8&logo=twitter&logoColor=white&link=https://twitter.com/opedro3g)](https://twitter.com/opedro3g) 
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Henrique-1e00e8?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro3g/)](https://www.linkedin.com/in/pedro3g/) 
+[![Gmail Badge](https://img.shields.io/badge/-opedro3g@gmail.com-1e00e8?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:opedro3g@gmail.com)](mailto:opedro3g@gmail.com)
