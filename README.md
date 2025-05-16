@@ -1,3 +1,7 @@
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedro3g&theme=dracula&utcOffset=-3)](https://github.com/pedro3g) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedro3g&theme=dracula)](https://github.com/pedro3g) |  
+| ----------- | ----------- |
 
 ### Hi there, I'm Pedro Henrique - a Software Engineer with a rich background in software development and teaching.
 
@@ -7,11 +11,17 @@ One of my most notable achievements includes designing algorithms capable of pro
 
 My technical arsenal is well-equipped with tools and technologies such as Docker, Git, NestJS, MySQL, MongoDB, and a suite of AWS services including S3, SNS, SQS, SES, EC2, and Lambda. These skills have been instrumental in constructing dashboards, developing Lambda-based algorithms, and enhancing error handling mechanisms.
 
-Beyond professional engagements, I am pursuing a Bachelor's degree in Software Engineering, which has been a foundation for understanding the principles and best practices of software development and architecture. Additionally, I share my knowledge and experience as a teacher, offering personalized lessons on popular technologies including JavaScript, TypeScript, GitHub, Express, NestJS, React, React Native, Next.js, MongoDB, and PostgreSQL. Teaching allows me to help others achieve their professional goals by providing a deep and practical understanding of these tools and techniques.
+<div align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,nodejs,express,nest,docker,aws,mysql,mongodb,postgresql" />
+</a>
+<br />
+</div>
 
-I am passionate about learning new technologies, solving complex problems, and delivering high-quality products. My career aspirations are to continue growing as a developer and software architect, seeking opportunities that challenge, inspire, and allow me to contribute to the development and innovation of software solutions.
-
-Thank you for visiting my GitHub profile. I look forward to the possibility of collaborating on projects that push the boundaries of technology and make 
+##
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pedro3g&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+</div>
 
 [![Twitter Badge](https://img.shields.io/badge/-@pedro3g-1e00e8?style=flat-cirecle&labelColor=1e00e8&logo=twitter&logoColor=white&link=https://twitter.com/opedro3g)](https://twitter.com/opedro3g) 
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Henrique-1e00e8?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro3g/)](https://www.linkedin.com/in/pedro3g/) 
